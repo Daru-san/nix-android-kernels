@@ -5,11 +5,11 @@
     flake-parts.url = "github:hercules-ci/flake-parts";
     nix-kernelsu-builder.url = "github:xddxdd/nix-kernelsu-builder";
     kernelsu = {
-      url = "github:tiann/KernelSU/463afa7471b5a753d8bd989a5cb0dc781bfd986";
+      url = "github:tiann/KernelSU/4a18921bc00eb83ba3e60bec5672dfbc4d2bd9a2";
       flake = false;
     };
     sufs4ksu = {
-      url = "gitlab:simonpunk/susfs4ksu/e27713beefb0fdec973c84004a2fb5f0738c75d2";
+      url = "gitlab:simonpunk/susfs4ksu/539a0b5ff5be6b6d32d7e7ad15c324a8b16a75b2";
       flake = false;
     };
   };
