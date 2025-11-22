@@ -39,7 +39,7 @@
           kernelsu =
             let
               arch = "arm64";
-              clangVersion = "19";
+              clangVersion = "20";
               kernelPatches = [
                 (pkgs.fetchpatch {
                   url = "https://github.com/cdpkp/android_kernel_tree_samsung_a05s/commit/72c67f9b85b492a8ba500ce2a03eff1bd78f6b9e.patch";
