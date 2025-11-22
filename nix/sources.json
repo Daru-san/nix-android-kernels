@@ -1,0 +1,14 @@
+{
+    "android_kernel_samsung_a05s": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "Daru-san",
+        "repo": "android_kernel_samsung_a05s",
+        "rev": "322facb001d4c7f396c37d0bcd62ad1ae679ae6e",
+        "sha256": "1b4mpjw6112bq9p26qjv1rp6h61pkpp5dpvs88hiqwl18iai71pq",
+        "type": "tarball",
+        "url": "https://github.com/Daru-san/android_kernel_samsung_a05s/archive/322facb001d4c7f396c37d0bcd62ad1ae679ae6e.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
